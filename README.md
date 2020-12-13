@@ -1,1 +1,0 @@
-# webp-excercise1
